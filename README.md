@@ -1,4 +1,4 @@
-# 🚀 JavaScript Fundamentals & Logic Building
+# 🚀 JavaScript Fundamentals & Logic Building Practice
 
 Welcome to my personal coding practice repository! This space is dedicated to mastering **JavaScript basics** and strengthening **core programming logic** through hands-on exercises — ideal for beginners and anyone looking to sharpen their fundamentals.
 
